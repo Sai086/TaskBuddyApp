@@ -39,4 +39,4 @@ TaskBuddy is a ReactJS-based task management application that helps users effici
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/taskbuddy-app.git
+   git clone https://github.com/Sai086/taskbuddy-app.git
